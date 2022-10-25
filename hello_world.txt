@@ -1,1 +1,2 @@
 random text
+test git commit without -m
